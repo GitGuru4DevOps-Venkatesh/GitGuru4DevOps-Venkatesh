@@ -1,9 +1,9 @@
 **Hello All,
 👋 Greetings, DevOps Enthusiasts!**
 
-I am a Senior Analyst with 4.9 years of experience. However, I have recently moved to learn DevOps over the past 1-year of experience in DevOps. I keep on sharing knowledge on DevOps-related content/support.
+I am a Senior Analyst with 4.9 years of experience. However, I have been moved internally into DevOps over the past 4-Years of experience in DevOps. I keep on sharing knowledge on DevOps-related content/support.
 
-**Experienced Senior Analyst | DevOps Expert | Creative Content Creator**
+**Experienced Senior Analyst | DevOps Engineer | Creative Content Creator**
 
     I am on the lookout for a stimulating role that not only recognizes my prowess in DevOps but also allows me to unleash my creativity through innovative content creation. My journey in the DevOps landscape has equipped me with a deep understanding of tools and technologies. I aspire to contribute my blend of technical acumen and creative flair to a forward-thinking organization. My goal is to add value through precision, efficiency, and a touch of artistic ingenuity.
 
